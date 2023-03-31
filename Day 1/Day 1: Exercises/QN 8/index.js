@@ -1,1 +1,0 @@
-let details = ["Chiranjibi","Neupane","single","Nepal",16]
